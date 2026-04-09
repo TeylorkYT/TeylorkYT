@@ -18,11 +18,12 @@ Estudiante de **Análisis y Desarrollo de Software** con enfoque en la creación
 - ⚡ Explorando soluciones de **automatización con Python** para flujos de trabajo administrativos.
 
 ### 📊 Estadísticas de GitHub
-![TeylorkYT's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeylorkYT&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeylorkYT&layout=compact&theme=tokyonight)
+![Estadísticas de TeylorkYT](https://github-readme-stats.vercel.app/api?username=TeylorkYT&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TeylorkYT&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ### 📫 Cómo contactarme
-- **Email:** [Tu nuevo correo profesional aquí]
-- **LinkedIn:** [Tu enlace a LinkedIn]
+- **Email:** teylorkquinterolopez@gmail.com
+- **Freelancer:** https://www.freelancer.com/u/TeylorkQuintero
